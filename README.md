@@ -33,14 +33,3 @@ Os desafios são para nível júnior, mas com o tempo eles vão se aprofundando.
 | 23 | Music Legends         | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
 | 24 | Homeyou               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
 | 25 | Art.                  | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-
-
-
-18. <a href="">Spider-Man</a>
-19. <a href="">Ranchi</a>
-20. <a href="">Portfólio 2</a>
-21. <a href="">Xbox</a>
-22. <a href="">Codelândia</a>
-23. <a href="">Music Legends</a>
-24. <a href="">Homeyou</a>
-25. <a href="">Art.</a>
