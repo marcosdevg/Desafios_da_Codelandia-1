@@ -6,24 +6,36 @@ No servidor do Discord terá a seção "Desafios" onde vamos ter acesso a cada d
 
 Os desafios são para nível júnior, mas com o tempo eles vão se aprofundando.
 
-## Índice
-1. <a href="https://github.com/eaecamarano/Desafios_da_Codelandia/tree/main/Desafio%201%20-%20Blog%20da%20Codel%C3%A2ndia">Blog da Codelândia</a>
-2. <a href="">JordanShoes</a>
-3. <a href="">One Page</a>
-4. <a href="">Login</a>
-5. <a href="">Studio Ghibli</a>
-6. <a href="">Loki</a>
-7. <a href="">Valorant</a>
-8. <a href="">CodeMoji</a>
-9. <a href="">Portfólio 1</a>
-10. <a href="">Naped</a>
-11. <a href="">Jogo da Memória</a>
-12. <a href="">La Pizza</a>
-13. <a href="">Arcane (Parte 1 e 2)</a>
-14. <a href="">HelpDog</a>
-15. <a href="">Perfil do Github</a>
-16. <a href="">Feliz Natal</a>
-17. <a href="">Kenai</a>
+| Nº| Desafio                | Repositório                   | Final                         |
+|---|----------------------- | ----------------------------- | ----------------------------- |
+| 1 | Blog da Codelândia     | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 2 | JordanShoes            | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 3 | One Page               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 4 | Login                  | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 5 | Studio Ghibli          | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 6 | Loki                   | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 7 | Valorant               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 8 | CodeMoji               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 9 | Portfólio 1            | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 10 | Naped                 | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 11 | Jogo da Memória       | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 12 | La Pizza              | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 13 | Arcane (1 e 2)        | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 14 | HelpDog               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 15 | Perfil do Github      | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 16 | Feliz Natal           | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 17 | Kenai                 | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 18 | Spider-Man            | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 19 | Ranchi                | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 20 | Portfólio 2           | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 21 | Xbox                  | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 22 | Codelândia            | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 23 | Music Legends         | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 24 | Homeyou               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 25 | Art.                  | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+
+
+
 18. <a href="">Spider-Man</a>
 19. <a href="">Ranchi</a>
 20. <a href="">Portfólio 2</a>
