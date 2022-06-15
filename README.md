@@ -9,27 +9,27 @@ Os desafios são para nível júnior, mas com o tempo eles vão se aprofundando.
 | Nº| Desafio                | Repositório                   | Final                         |
 |---|----------------------- | ----------------------------- | ----------------------------- |
 | 1 | Blog da Codelândia     | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 2 | JordanShoes            | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 3 | One Page               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 4 | Login                  | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 5 | Studio Ghibli          | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 6 | Loki                   | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 7 | Valorant               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 8 | CodeMoji               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 9 | Portfólio 1            | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 10 | Naped                 | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 11 | Jogo da Memória       | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 12 | La Pizza              | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 13 | Arcane (1 e 2)        | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 14 | HelpDog               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 15 | Perfil do Github      | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 16 | Feliz Natal           | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 17 | Kenai                 | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 18 | Spider-Man            | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 19 | Ranchi                | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 20 | Portfólio 2           | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 21 | Xbox                  | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 22 | Codelândia            | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 23 | Music Legends         | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 24 | Homeyou               | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 25 | Art.                  | <a href="">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 2 | JordanShoes            | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 3 | One Page               | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 4 | Login                  | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 5 | Studio Ghibli          | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 6 | Loki                   | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 7 | Valorant               | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 8 | CodeMoji               | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 9 | Portfólio 1            | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 10 | Naped                 | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 11 | Jogo da Memória       | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 12 | La Pizza              | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 13 | Arcane (1 e 2)        | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 14 | HelpDog               | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 15 | Perfil do Github      | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 16 | Feliz Natal           | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 17 | Kenai                 | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 18 | Spider-Man            | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 19 | Ranchi                | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 20 | Portfólio 2           | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 21 | Xbox                  | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 22 | Codelândia            | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 23 | Music Legends         | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 24 | Homeyou               | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 25 | Art.                  | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
