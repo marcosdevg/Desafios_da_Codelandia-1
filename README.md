@@ -1,6 +1,6 @@
 # Desafios da Codelândia
 
-Repositório com o objetivo de apresentar os desafios que foram propostos pelo Iuri Silva (<a href="https://iuricode.com/bio/">@iuricode</a>) no servidor do Discord da Codelândia. O servidor pode ser acessado <a href="https://discord.com/invite/QevDJqCzaY">clicando aqui</a>.
+Repositório com o objetivo de apresentar os desafios que foram propostos pelo Iuri Silva (<a href="https://www.instagram.com/iuricode/">@iuricode</a>) no servidor do Discord da Codelândia. O servidor pode ser acessado <a href="https://discord.com/invite/QevDJqCzaY">clicando aqui</a>.
 
 No servidor do Discord terá a seção "Desafios" onde vamos ter acesso a cada desafio, aos arquivos que foram utilizados (fontes, imagens...), ao link para o Figma com o design, uma sala para tirar as dúvidas e outra sala para apresentar os resultados.
 
