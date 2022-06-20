@@ -33,3 +33,4 @@ Os desafios são para nível júnior, mas com o tempo eles vão se aprofundando.
 | 23 | Music Legends         | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
 | 24 | Homeyou               | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
 | 25 | Art.                  | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 26 | FoodJP                | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
