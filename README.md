@@ -10,7 +10,7 @@ Os desafios são para nível júnior, mas com o tempo eles vão se aprofundando.
 |---|----------------------- | ----------------------------- | ----------------------------- |
 | 1 | Blog da Codelândia     | <a href="https://github.com/eaecamarano/Desafios_da_Codelandia/tree/main/Desafio%201%20-%20Blog%20da%20Codel%C3%A2ndia">Clique aqui 🗃</a> | <a href="https://blog-da-codelandia.vercel.app/">Clique aqui ✅</a> |
 | 2 | JordanShoes            | <a href="https://github.com/eaecamarano/Desafios_da_Codelandia/tree/main/Desafio%202%20-%20JordanShoes">Clique aqui 🗃</a> | <a href="https://jordanshoes-eight.vercel.app/">Clique aqui ✅</a> |
-| 3 | One Page               | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
+| 3 | One Page               | <a href="https://github.com/eaecamarano/Desafios_da_Codelandia/tree/main/Desafio%203%20-%20One%20Page">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
 | 4 | Login                  | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
 | 5 | Studio Ghibli          | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
 | 6 | Loki                   | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
